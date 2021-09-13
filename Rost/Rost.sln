@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rost.WebApi", "Rost.WebApi\Rost.WebApi.csproj", "{B8A0E788-451F-4B1B-AB0A-3AD0262FE33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rost.Repository", "Rost.Repository\Rost.Repository.csproj", "{BFDA4442-1282-4E6E-9FAA-3544F9FF32F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rost.Services", "Rost.Services\Rost.Services.csproj", "{B94C7EBB-C010-4FCE-A580-E4B2DE51394F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rost.Common", "Rost.Common\Rost.Common.csproj", "{85657720-6223-4150-A6ED-2E59726C097C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A0E788-451F-4B1B-AB0A-3AD0262FE33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A0E788-451F-4B1B-AB0A-3AD0262FE33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A0E788-451F-4B1B-AB0A-3AD0262FE33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A0E788-451F-4B1B-AB0A-3AD0262FE33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDA4442-1282-4E6E-9FAA-3544F9FF32F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDA4442-1282-4E6E-9FAA-3544F9FF32F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDA4442-1282-4E6E-9FAA-3544F9FF32F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDA4442-1282-4E6E-9FAA-3544F9FF32F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94C7EBB-C010-4FCE-A580-E4B2DE51394F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94C7EBB-C010-4FCE-A580-E4B2DE51394F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94C7EBB-C010-4FCE-A580-E4B2DE51394F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94C7EBB-C010-4FCE-A580-E4B2DE51394F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85657720-6223-4150-A6ED-2E59726C097C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85657720-6223-4150-A6ED-2E59726C097C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85657720-6223-4150-A6ED-2E59726C097C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85657720-6223-4150-A6ED-2E59726C097C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
